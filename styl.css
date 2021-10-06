@@ -4,3 +4,9 @@ h1 {
 h2 {
   background-color: green;
 }
+p {
+  border-top-style:solid;
+}
+body {
+  margin:10px;
+}
